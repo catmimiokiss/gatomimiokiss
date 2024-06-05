@@ -1,6 +1,7 @@
 # gatomimiokiss
 
 Boas vindas ao meu perfil 💙💙
+
 Meu nome é Kathleen!!!
 
 Estou estudando na Alura.
@@ -9,5 +10,6 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 Você pode entrar em contato comigo 📫
 kathleensouzad@gmail.com 💙
 
-[![image](https://github.com/catmimiokiss/gatomimiokiss/assets/171030897/4c45f6f2-2b26-4807-9870-7332e1800e18)]
+
+[![gif](https://github.com/catmimiokiss/gatomimiokiss/assets/171030897/4c45f6f2-2b26-4807-9870-7332e1800e18)]
 
